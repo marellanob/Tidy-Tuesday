@@ -5,6 +5,7 @@ library(ggplot2)
 library(ggthemes)
 library(scales)
 library(colorspace)
+library(ragg)
 
 # Data
 tuesdata <- tidytuesdayR::tt_load(2021, week = 35)
@@ -96,7 +97,9 @@ lemur_plot <- lemur_genus_birth_sex_ %>%
 
 lemur_plot
 
-ggsave("lemurplot.jpg", plot = lemur_plot, scale = 1.5, dpi = "retina")
+ggsave("lemur.plot.jpg", plot = lemur_plot, scale = 1.5, 
+       device = agg_png(width = 9, height = 7, units = "in", res = 300))
+
 
 
 
