@@ -4,6 +4,10 @@ This repository is used to show the code and plots for the weekly #TidyTuesday e
 
 Every week a different dataset is selected by the organizers and the R community works through the data to build a data visualization using the tidyverse ecosystem.
 
+## 2021 - WEEK 38 (BILLBOARD 100 CHART PLOT)
+
+![billboard](https://user-images.githubusercontent.com/79113395/135003553-462fbd95-cb1d-4f91-8835-779ea42d73ed.png)
+
 ## 2021 - WEEK 36 (AUSTRALIAN BIRDS PLOT)
 
 ![ausbirds plot](https://user-images.githubusercontent.com/79113395/132264900-d8b37b19-58d4-40f3-b9e6-690070491e11.jpg)
