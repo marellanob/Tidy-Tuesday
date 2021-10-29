@@ -4,6 +4,10 @@ This repository is used to show the code and plots for the weekly #TidyTuesday e
 
 Every week a different dataset is selected by the organizers and the R community works through the data to build a data visualization using the tidyverse ecosystem.
 
+## 2021 - WEEK 39 (Emmy Awards PLOT)
+
+![emmy](https://user-images.githubusercontent.com/79113395/139390984-f81db154-9f1f-40e9-8fbc-bcca580e656f.png)
+
 ## 2021 - WEEK 38 (BILLBOARD 100 CHART PLOT)
 
 ![billboard](https://user-images.githubusercontent.com/79113395/135003553-462fbd95-cb1d-4f91-8835-779ea42d73ed.png)
